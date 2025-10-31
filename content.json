@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "title_ar": "عُمرة VIP",
+    "title_en": "Umrah VIP",
+    "subtitle_ar": "تجربة فاخرة لرحلة عمرة لا تُنسى",
+    "subtitle_en": "A Luxury Experience for an Unforgettable Umrah Journey",
+    "cta_ar": "احجز الآن",
+    "cta_en": "Book Now",
+    "description_ar": "نقدم لكم خدمة متكاملة لعُمرة مميزة بمعايير عالمية من الخدمات الفاخرة والرعاية المتميزة",
+    "description_en": "We offer a complete service for a distinguished Umrah with world-class luxury services and exceptional care"
+  },
+  "premium_services": [
+    {
+      "title_ar": "خدمات فاخرة شاملة",
+      "title_en": "Comprehensive Luxury Services",
+      "desc_ar": "حزمة متكاملة من الخدمات المميزة التي تضمن راحة وسعادة ضيوفنا الكرام",
+      "desc_en": "A complete package of premium services that ensure the comfort and happiness of our esteemed guests"
+    },
+    {
+      "title_ar": "استقبال فاخر في المطارات",
+      "title_en": "Luxury Airport Reception",
+      "desc_ar": "استقبال خاص عند الوصول والمغادرة مع تيسير الإجراءات والتنقل بسلاسة",
+      "desc_en": "Special reception upon arrival and departure with streamlined procedures and seamless transportation"
+    },
+    {
+      "title_ar": "مواصلات فاخرة",
+      "title_en": "Luxury Transportation",
+      "desc_ar": "أسطول من السيارات الفاخرة ووسائل النقل المريحة والمجهزة بأحدث التقنيات",
+      "desc_en": "A fleet of luxury vehicles and comfortable transportation equipped with the latest technology"
+    }
+  ],
+  "first_class": {
+    "title_ar": "درجة أعمال أولى",
+    "title_en": "First Class Business",
+    "subtitle_ar": "سفر مريح وأنيق",
+    "subtitle_en": "Comfortable and Elegant Travel",
+    "desc_ar": "رحلات طيران بدرجة أعمال أولى مع خدمات مميزة ومساحات واسعة لراحة تامة",
+    "desc_en": "Business class flights with premium services and spacious areas for complete comfort",
+    "features_ar": [
+      "مقاعد واسعة ومريحة",
+      "خدمة طعام فاخرة",
+      "ترفيه على متن الطائرة",
+      "أولوية في الصعود والتسجيل"
+    ],
+    "features_en": [
+      "Spacious and comfortable seats",
+      "Premium dining service",
+      "In-flight entertainment",
+      "Priority boarding and check-in"
+    ]
+  },
+  "airport_reception": {
+    "title_ar": "الاستقبال في المطارات",
+    "title_en": "Airport Reception",
+    "subtitle_ar": "خدمة استقبال فاخرة وخاصة",
+    "subtitle_en": "Luxury and Special Reception Service",
+    "desc_ar": "نوفر لكم خدمة استقبال مميزة في المطارات مع مساعدين متخصصين لتسهيل جميع الإجراءات",
+    "desc_en": "We provide you with an exceptional airport reception service with specialized assistants to facilitate all procedures",
+    "services_ar": [
+      "استقبال شخصي عند الوصول",
+      "مساعدة في إجراءات الجوازات والجمارك",
+      "نقل مباشر إلى الفندق",
+      "خدمة الـ VIP Lounge"
+    ],
+    "services_en": [
+      "Personal reception upon arrival",
+      "Assistance with passport and customs procedures",
+      "Direct transfer to hotel",
+      "VIP Lounge service"
+    ]
+  },
+  "transportation": {
+    "title_ar": "مواصلات فاخرة",
+    "title_en": "Luxury Transportation",
+    "subtitle_ar": "سفر بكل راحة وأناقة",
+    "subtitle_en": "Travel with Complete Comfort and Elegance",
+    "desc_ar": "أسطول من السيارات الفاخرة الحديثة مع سائقين محترفين لراحتكم وسلامتكم",
+    "desc_en": "A fleet of modern luxury vehicles with professional drivers for your comfort and safety",
+    "features_ar": [
+      "سيارات فاخرة حديثة",
+      "سائقون محترفون ومدربون",
+      "خدمة 24/7",
+      "تنقلات مريحة وآمنة"
+    ],
+    "features_en": [
+      "Modern luxury vehicles",
+      "Professional and trained drivers",
+      "24/7 service",
+      "Comfortable and safe transportation"
+    ]
+  },
+  "hotels": {
+    "title_ar": "فنادق 5 نجوم",
+    "title_en": "5-Star Hotels",
+    "subtitle_ar": "إقامة فاخرة في أفضل الفنادق",
+    "subtitle_en": "Luxury Accommodation in the Finest Hotels",
+    "desc_ar": "اختيار من أفضل الفنادق ذات الخمس نجوم القريبة من الحرمين الشريفين مع خدمات فندقية استثنائية",
+    "desc_en": "Selection of the finest 5-star hotels near the Two Holy Mosques with exceptional hotel services",
+    "features_ar": [
+      "فنادق 5 نجوم فاخرة",
+      "قرب من الحرمين الشريفين",
+      "غرف واسعة ومريحة",
+      "خدمات فندقية عالمية"
+    ],
+    "features_en": [
+      "Luxury 5-star hotels",
+      "Proximity to the Two Holy Mosques",
+      "Spacious and comfortable rooms",
+      "World-class hotel services"
+    ]
+  },
+  "exclusive_experiences": {
+    "title_ar": "تجارب حصرية",
+    "title_en": "Exclusive Experiences",
+    "subtitle_ar": "ذكريات لا تُنسى",
+    "subtitle_en": "Unforgettable Memories",
+    "desc_ar": "تجارب حصرية ومميزة تجعل رحلتكم أكثر خصوصية وتميزاً",
+    "desc_en": "Exclusive and distinguished experiences that make your journey more private and special",
+    "experiences_ar": [
+      "جولات سياحية خاصة",
+      "زيارات مميزة للمواقع التاريخية",
+      "استشارات دينية متخصصة",
+      "برامج ترفيهية حصرية"
+    ],
+    "experiences_en": [
+      "Private tours",
+      "Exclusive visits to historical sites",
+      "Specialized religious consultations",
+      "Exclusive entertainment programs"
+    ]
+  },
+  "contact_footer": {
+    "phone": "+966501234567",
+    "email": "info@umrahvip.com",
+    "address_ar": "المملكة العربية السعودية، جدة",
+    "address_en": "Jeddah, Saudi Arabia",
+    "whatsapp": "+966501234567",
+    "social_media": {
+      "facebook": "https://facebook.com/umrahvip",
+      "instagram": "https://instagram.com/umrahvip",
+      "twitter": "https://twitter.com/umrahvip"
+    }
+  },
+  "assets_to_download": [
+    {
+      "type": "image",
+      "name": "hero-background.jpg",
+      "description": "صورة خلفية لقسم البطل",
+      "url": "placeholder"
+    },
+    {
+      "type": "image",
+      "name": "first-class-plane.jpg",
+      "description": "صورة طائرة درجة أعمال",
+      "url": "placeholder"
+    },
+    {
+      "type": "image",
+      "name": "luxury-hotel.jpg",
+      "description": "صورة فندق فاخر",
+      "url": "placeholder"
+    },
+    {
+      "type": "image",
+      "name": "luxury-car.jpg",
+      "description": "صورة سيارة فاخرة",
+      "url": "placeholder"
+    },
+    {
+      "type": "video",
+      "name": "umrah-experience.mp4",
+      "description": "فيديو تعريفي بتجربة العُمرة",
+      "url": "placeholder"
+    }
+  ]
+}
+
