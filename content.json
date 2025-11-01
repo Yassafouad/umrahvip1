@@ -1,7 +1,7 @@
 {
   "hero": {
-    "title_ar": "عُمرة VIP",
-    "title_en": "Umrah VIP",
+    "title_ar": "عُمرة VVIP",
+    "title_en": "Umrah VVIP",
     "subtitle_ar": "تجربة فاخرة لرحلة عمرة لا تُنسى",
     "subtitle_en": "A Luxury Experience for an Unforgettable Umrah Journey",
     "cta_ar": "احجز الآن",
@@ -60,13 +60,13 @@
       "استقبال شخصي عند الوصول",
       "مساعدة في إجراءات الجوازات والجمارك",
       "نقل مباشر إلى الفندق",
-      "خدمة الـ VIP Lounge"
+      "خدمة الـ VVIP Lounge"
     ],
     "services_en": [
       "Personal reception upon arrival",
       "Assistance with passport and customs procedures",
       "Direct transfer to hotel",
-      "VIP Lounge service"
+      "VVIP Lounge service"
     ]
   },
   "transportation": {
